@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "hello B" 
+=======
+"hello " 
+>>>>>>> ad72f7782f25ffa0459ba93aaea6c59064f1ae6d
